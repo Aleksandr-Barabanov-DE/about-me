@@ -4,11 +4,15 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/AboutMe/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
-## Welcome to my GitHub profile! I am a Frontend Developer with hands-on experience in building scalable, high-performance web applications. I specialize in React, TypeScript, Redux, and API integrations, and I am passionate about creating intuitive, dynamic user interfaces.
+## I am a Frontend Developer with a proven track record in building scalable, high-performance web applications. My expertise lies in React, TypeScript, Redux, and API integrations, and I am passionate about creating intuitive, dynamic user interfaces.
 
 ## About Me
 
-I am a motivated Web Developer with solid experience working on large-scale projects, primarily focused on frontend development. I have extensive expertise in using modern technologies, including JavaScript, React, TypeScript, and Redux. My goal is to craft seamless, performant applications that meet both business needs and user expectations. I continuously challenge myself to grow by diving into full-stack development and enhancing my UI/UX skills.
+My journey in web development began with creating websites for small and medium-sized businesses, where I gained hands-on experience in design, CRM integration, and SEO optimization. This early exposure helped me develop a solid foundation in working with various technologies and optimizing user interfaces to drive conversions.
+
+As my career progressed, I transitioned to working on large-scale, high-load applications, honing my skills in JavaScript, React, and TypeScript. Currently, I am part of a 13-person team, developing large-scale web projects using React, Redux, TypeScript, and Material-UI. In my role, I contribute to architectural design, perform code reviews, and focus on performance optimization, UX/UI improvements, and Webpack configuration.
+
+I am committed to continuously growing as a frontend developer, deepening my expertise in building complex, user-friendly applications that address real business challenges while providing an excellent user experience.
 
 ## Skills & Technologies
 
