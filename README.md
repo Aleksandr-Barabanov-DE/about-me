@@ -59,7 +59,7 @@ I am a motivated Web Developer with solid experience working on large-scale proj
 
 ## Experience
 
-### Frontend Developer, LLC EcoPoint (2022 - Present)
+### Frontend Developer, LLC EcoPoint (2023 - Present)
 Company specializing in automated recycling solutions.
 
 Key Responsibilities:
@@ -84,14 +84,19 @@ Project Scale:
 - Supported over 30 recycling machines and several thousand active users.
 - Worked with high-load systems and large volumes of data.
 
-### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2022)
+### Frontend Developer, Freelance (2022 - 2023)
 
-- Developed and maintained websites, including e-commerce and restaurant platforms, using **Wix**, **Nethouse**, and **Tilda**, covering the full cycle of development, optimization, and support.  
-- Improved **UI** and **website load speed**, enhancing user experience and boosting conversion rates.  
-- Implemented **SEO strategies**, achieving **top rankings** in Google and Yandex for key search queries.  
-- Integrated **payment systems** and **CRM solutions** to enhance customer interaction.  
-- Managed an **e-commerce site** with over 8,000 products, attaining **top SEO rankings** in Google and Yandex.  
-- Designed and optimized restaurant websites, focusing on user experience and engagement through effective **UI enhancements** and **SEO strategies**.
+- Developed web applications for small businesses (HTML, CSS, JavaScript).
+- Created responsive designs and cross-browser interfaces based on Figma mockups.
+- Integrated REST APIs, ensuring stable operation of the client-side.
+- Set up SEO optimization and basic performance enhancements.
+
+### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2021)
+
+- Developed websites for small and medium-sized businesses (Wix, Tilda, Nethouse).
+- Integrated CRM systems, payment gateways, and conducted SEO optimization. 
+- Increased conversion rates and improved UX/UI for clients.  
+
 
 
 ## Education & Training
