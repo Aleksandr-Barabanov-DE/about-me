@@ -1,7 +1,7 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/about-me/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
-## I am a Frontend Developer with a proven track record in building scalable, high-performance web applications. My expertise lies in React, TypeScript, Redux, and API integrations, and I am passionate about creating intuitive, dynamic user interfaces.
+##  am a frontend developer with 11 years of experience, having progressed from creating websites using website builders to developing scalable, high-performance web applications. My expertise lies in React, TypeScript, Redux, and API integrations, and I am passionate about creating intuitive, dynamic user interfaces.
 
 ## About Me
 
