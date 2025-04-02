@@ -60,7 +60,7 @@ I am committed to continuously growing as a frontend developer, deepening my exp
 
 ## Experience
 
-### Frontend Developer, LLC EcoPoint (2023 - Present)
+### Frontend Developer, LLC EcoPoint (2022 - Present)
 Company specializing in automated recycling solutions.
 
 Key Responsibilities:
@@ -85,28 +85,27 @@ Project Scale:
 - Supported over 30 recycling machines and several thousand active users.
 - Worked with high-load systems and large volumes of data.
 
-### Frontend Developer, Freelance (2022 - 2023)
-
-- Developed web applications for small businesses (HTML, CSS, JavaScript).
-- Created responsive designs and cross-browser interfaces based on Figma mockups.
-- Integrated REST APIs, ensuring stable operation of the client-side.
-- Set up SEO optimization and basic performance enhancements.
-
 ### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2021)
 
-- Developed websites for small and medium-sized businesses (Wix, Tilda, Nethouse).
-- Integrated CRM systems, payment gateways, and conducted SEO optimization. 
-- Increased conversion rates and improved UX/UI for clients.  
+Developed and maintained websites, including e-commerce platforms and restaurant websites, focusing on improving UI/UX and SEO.
 
+Key Responsibilities:
+- Developed and maintained websites using platforms such as Wix, Nethouse, and Tilda.
+- Optimized page load speeds and improved the UI/UX to increase conversion rates and user satisfaction.
+- Implemented SEO strategies, achieving top rankings on Google and Yandex for targeted keywords.
+- Integrated payment systems and CRM tools for streamlined customer interactions.
 
+Achievements:
+- Successfully managed a large e-commerce site with over 8,000 products.
+- Enhanced SEO performance and user engagement for restaurant websites.
 
 ## Education & Training
 
 - **Frontend Development**: Completed a professional course in Frontend Development at **Yandex Practicum**, gaining solid experience in modern web development practices.
-- **React Specialization**: Focused on **API integration** and **asynchronous programming** during a React course at **Can She Code Inc.**.
+- **React, Redux Specialization**: Focused on **Redux**, **ReduxToolkit** **API integration** and **asynchronous programming** during a React course at **Can She Code Inc.**.
 - **JavaScript Specialization**: Focused on **API integration** and **asynchronous programming** during a JavaScript course at **Can She Code Inc.**.
 - **GSAP & Figma Mastery**: Enhanced skills in **UI/UX design** and **animation** through a specialized course at **Can She Code Inc.**.
-- **Continuous Learning**: Currently studying **Node.js**, and **Redux** to expand into full-stack development.
+- **Continuous Learning**: Currently studying **Node.js** to expand into full-stack development.
 - **Dynamic Interfaces**: Developed complex, dynamic user interfaces, implementing smooth animations and managing data interactions for better user experience.
 
 ## Used Languages
