@@ -5,11 +5,15 @@
 
 ## About Me
 
-My journey in web development began with creating websites for small and medium-sized businesses, where I gained hands-on experience in design, CRM integration, and SEO optimization. This early exposure helped me develop a solid foundation in working with various technologies and optimizing user interfaces to drive conversions.
+My professional journey began in 2013, when I worked on projects for small and medium-sized businesses, handling everything from design and CRM integration to SEO optimization and improving UI/UX, helping clients achieve higher conversion rates and top positions in search engines.
 
-As my career progressed, I transitioned to working on large-scale, high-load applications, honing my skills in JavaScript, React, and TypeScript. Currently, I am part of a 13-person team, developing large-scale web projects using React, Redux, TypeScript, and Material-UI. In my role, I contribute to architectural design, perform code reviews, and focus on performance optimization, UX/UI improvements, and Webpack configuration.
+In 2021, I focused on deepening my knowledge of JavaScript, React, and related technologies to build complex user interfaces and applications beyond the limitations of website builders. Today, I have experience working in teams where I contributed to the development of high-load applications using React, TypeScript, Redux, and Material-UI, as well as optimizing performance and enhancing user experience.
 
-I am committed to continuously growing as a frontend developer, deepening my expertise in building complex, user-friendly applications that address real business challenges while providing an excellent user experience.
+Working in a 13-person team on large-scale projects, I have learned how to collaborate effectively with colleagues, implement architectural decisions, participate in planning, and conduct code reviews. Additionally, I have mastered application testing using Jest and Cypress and optimized Webpack builds.
+
+My goal is to continue growing as a frontend developer, deepening my skills in building modern web applications, improving UX/UI, and working with high-load systems.
+
+I am eager to contribute to the development of your project, using my experience and technical expertise to create user-friendly, high-performance, and innovative interfaces that address business challenges and enhance the user experience.
 
 ## Skills & Technologies
 
