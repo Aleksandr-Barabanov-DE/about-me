@@ -32,8 +32,7 @@ I’m a proactive team player who contributes to architectural decisions, code r
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=
-::contentReference[oaicite:6]{index=6}
+
 
 ### Goals  
 - **Short-term Goals**:  
