@@ -1,4 +1,4 @@
-<img src="https://github.com/Aleksandr-Barabanov-DE/about-me/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
+<img src="https://github.com/Aleksandr-Barabanov-DE/about-me/blob/main/hero-section.jpg?raw=true" alt="Aleksandr Barabanov. About me Page" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
 ## About Me
@@ -79,35 +79,11 @@ Immanuel Kant Baltic Federal University, Russia (2005–2010)
 ## Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Notable Projects
+## 💻 Notable Projects
 
-- **[Crypto Tracker](https://github.com/Aleksandr-Barabanov-DE/Crypto-Search-2.0)**:  
-  This web application allows users to monitor cryptocurrency data, add cryptocurrencies to favorites, and toggle between dark and light themes.  
-  **Features**:
-  - View cryptocurrency information.
-  - Add to favorites.
-  - Dark and light themes.
-  - Responsive design.
-  
-  **Technologies**:
-  - **React** for building user interfaces and managing state.
-  - **TypeScript** for reliable typing.
-  - **SASS** and **Material-UI** for styling.
-  - **Vite** for fast bundling and development.
-  - **GSAP** for creating interactive animations.
-  - **React Router** for routing.
+**[Crypto Tracker](https://github.com/Aleksandr-Barabanov-DE/Crypto-Search-2.0)** – Real-time cryptocurrency dashboard with dynamic API updates and responsive UI using React, TypeScript, and GSAP.
 
-  This project allowed me to showcase my skills with modern tools and frameworks while creating a user-friendly, responsive, and high-performance interface.
-
-
-- **[Yummy Search](https://github.com/Aleksandr-Barabanov-DE/Recipe-Search-API-)**: A recipe finder app allowing users to search recipes by ingredients, diet, cuisine, and intolerances. Features detailed recipe information and wine pairing suggestions.
-Technologies: React, React Router, GSAP, Spoonacular API
-  
-- **[Stellar Burgers](https://github.com/Aleksandr-Barabanov-DE/stellar-burgers)**: Created a fully functional burger ordering application using React and TypeScript to improve type safety and maintainability. This project employed Object-Oriented Programming (OOP) principles to develop reusable components and efficiently manage application state. Implemented a responsive design to ensure optimal user experience across various devices, complemented by smooth animations using GSAP. The modular architecture facilitated improved code readability and maintainability while integrating RESTful APIs for dynamic data handling.
-Technologies: React, TypeScript, Redux, Webpack
-
-- **[Nutrition Analyzer](https://github.com/Aleksandr-Barabanov-DE/Nutrition-Analisys-React)**: A tool for analyzing the nutritional value of meal. Users can input a list of ingredients with quantities to receive detailed information about calories, macronutrients, and micronutrients. This application helps users make informed dietary decisions and track their nutritional intake effectively.
-Technologies: React, Edamam API, LocalStorage, CSS Modules
+**[Fake Store](https://github.com/Aleksandr-Barabanov-DE/Fake-Store)** – E-commerce SPA with Redux-powered state management, product catalog, and animated UI. Built with React, Material UI, and REST API integration.
 
 ## Contacts
 Feel free to connect with me:  
@@ -118,8 +94,5 @@ Feel free to connect with me:
   <a href="mailto:barabanov.codes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a> 
-  <a href="https://www.codewars.com/users/Aleksandr-Barabanov" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"/>
-  </a>
 </div>
 
