@@ -1,19 +1,15 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/about-me/blob/main/hero-section.jpg?raw=true" alt="Slogan: JS is Everywhere. Coding is a state of mind" width="1200"/>
 <h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
  
-##  am a frontend developer with 11 years of experience, having progressed from creating websites using website builders to developing scalable, high-performance web applications. My expertise lies in React, TypeScript, Redux, and API integrations, and I am passionate about creating intuitive, dynamic user interfaces.
-
 ## About Me
 
-My professional journey began in 2013, when I worked on projects for small and medium-sized businesses, handling everything from design and CRM integration to SEO optimization and improving UI/UX, helping clients achieve higher conversion rates and top positions in search engines.
+With over 11 years of experience in frontend development and a strong focus on React and TypeScript, I bring a proven ability to deliver scalable, high-performance web applications.
 
-In 2021, I focused on deepening my knowledge of JavaScript, React, and related technologies to build complex user interfaces and applications beyond the limitations of website builders. Today, I have experience working in teams where I contributed to the development of high-load applications using React, TypeScript, Redux, and Material-UI, as well as optimizing performance and enhancing user experience.
+Proficient in performance optimization, component-based architecture (FSD), and animation-driven UI/UX using GSAP.
 
-Working in a 13-person team on large-scale projects, I have learned how to collaborate effectively with colleagues, implement architectural decisions, participate in planning, and conduct code reviews. Additionally, I have mastered application testing using Jest and Cypress and optimized Webpack builds.
+Currently working at EcoPoint, where I develop reusable components, integrate REST APIs, and enhance user experience through smooth, high-performance interfaces.
 
-My goal is to continue growing as a frontend developer, deepening my skills in building modern web applications, improving UX/UI, and working with high-load systems.
-
-I am eager to contribute to the development of your project, using my experience and technical expertise to create user-friendly, high-performance, and innovative interfaces that address business challenges and enhance the user experience.
+I’m a proactive team player who contributes to architectural decisions, code reviews, and testing processes using tools like Jest and Cypress. Passionate about clean code, intuitive design, and delivering real business value.
 
 ## Skills & Technologies
 
@@ -64,44 +60,22 @@ I am eager to contribute to the development of your project, using my experience
 
 ## Experience
 
-### Frontend Developer, LLC EcoPoint (2022 - Present)
-Company specializing in automated recycling solutions.
+### **Frontend Developer**  
+**EcoPoint LLC**, Russia  
+*Jan 2022 – Present*  
+- Developed scalable web applications using **React**, **TypeScript**, **Redux**, and **Feature-Sliced Design (FSD)** architecture  
+- Built **reusable UI components** and implemented full **CRUD logic** with **REST API integration**  
+- Enhanced user experience through **GSAP animations** and smooth interactions  
+- **Optimized Webpack configuration**, reducing load time by 30% and bundle size by 25%  
+- Collaborated on **project planning**, code **reviews**, and testing using **Jest** and **Cypress**
 
-Key Responsibilities:
-- Developed and maintained a large-scale web project using React and TypeScript as part of a 13-person team.
-- Designed and integrated Redux: created actions, reducers, selectors, and configured middleware (Redux Thunk, Redux Toolkit).
-- Integrated with REST API: handled asynchronous operations, error handling, and CRUD operations.
-- Refactored and created reusable components using Material-UI, Swiper.js, and IMask.
-- Performance optimization: eliminated bugs, improved UX/UI, and reduced API latency.
-- Participated in planning, code reviews, and architectural decisions with the team.
-- Conducted unit and integration testing using Jest and Cypress.
-
-Key Achievements:
-
-- Optimized Webpack build, improving page load time by 30% and reducing bundle size by 25%.
-- Developed a date range picker component with intelligent error handling and localization.
-- Created a reusable ID filter component used in multiple sections of the project.
-- Implemented a container fill level visualizer with dynamic color indicators to enhance monitoring.
-- Reduced API response latency by 15% through query optimization and data handling improvements.
-  
-Project Scale:
-
-- Supported over 30 recycling machines and several thousand active users.
-- Worked with high-load systems and large volumes of data.
-
-### Web Developer and SEO Specialist, LLC "Orbis" (2013 - 2021)
-
-Developed and maintained websites, including e-commerce platforms and restaurant websites, focusing on improving UI/UX and SEO.
-
-Key Responsibilities:
-- Developed and maintained websites using platforms such as Wix, Nethouse, and Tilda.
-- Optimized page load speeds and improved the UI/UX to increase conversion rates and user satisfaction.
-- Implemented SEO strategies, achieving top rankings on Google and Yandex for targeted keywords.
-- Integrated payment systems and CRM tools for streamlined customer interactions.
-
-Achievements:
-- Successfully managed a large e-commerce site with over 8,000 products.
-- Enhanced SEO performance and user engagement for restaurant websites.
+### **Web Developer & SEO Specialist**  
+**Orbis LLC**, Russia  
+*Jul 2013 – Dec 2021*  
+- Created and maintained websites using **Wix**, **Tilda**, and **Nethouse**; integrated **CRMs** and **payment systems**  
+- Developed personal projects like **Crypto Tracker** and **Fake Store** with **React** and **TypeScript**  
+- Achieved **top-5 rankings** in **Google** and **Yandex**, increasing traffic and conversions via UI/UX improvements  
+- Managed **SEO**, speed optimization, and structure for a **catalog of 8,000+ products**
 
 ## Education & Training
 
