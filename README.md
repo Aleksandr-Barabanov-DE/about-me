@@ -67,6 +67,7 @@ Immanuel Kant Baltic Federal University, Russia (2005–2010)
 - JavaScript Intermediate — *HackerRank* (2024)  
 - GSAP & Figma — *Can She Code* (2024)  
 - EF SET English Certificate — **Level C2**
+- TELC Deutch - **Niveau С1**
 
 ---
 
