@@ -34,14 +34,6 @@ I’m a proactive team player who contributes to architectural decisions, code r
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
-### Goals  
-- **Short-term Goals**:  
-  - Master **Redux** and complex state management.  
-  - Contribute to open-source projects in **JavaScript frameworks**.  
-- **Long-term Goals**:  
-  - Build expertise in **UI/UX animations** with GSAP.  
-  - Work on commercial projects with **real-time data processing** and high scalability. 
-
 ## Experience
 
 ### **Frontend Developer**  
@@ -61,14 +53,22 @@ I’m a proactive team player who contributes to architectural decisions, code r
 - Achieved **top-5 rankings** in **Google** and **Yandex**, increasing traffic and conversions via UI/UX improvements  
 - Managed **SEO**, speed optimization, and structure for a **catalog of 8,000+ products**
 
-## Education & Training
 
-- **Frontend Development**: Completed a professional course in Frontend Development at **Yandex Practicum**, gaining solid experience in modern web development practices.
-- **React, Redux Specialization**: Focused on **Redux**, **ReduxToolkit** **API integration** and **asynchronous programming** during a React course at **Can She Code Inc.**.
-- **JavaScript Specialization**: Focused on **API integration** and **asynchronous programming** during a JavaScript course at **Can She Code Inc.**.
-- **GSAP & Figma Mastery**: Enhanced skills in **UI/UX design** and **animation** through a specialized course at **Can She Code Inc.**.
-- **Continuous Learning**: Currently studying **Node.js** to expand into full-stack development.
-- **Dynamic Interfaces**: Developed complex, dynamic user interfaces, implementing smooth animations and managing data interactions for better user experience.
+## 🎓 Education
+
+**BA in Linguistics**  
+Immanuel Kant Baltic Federal University, Russia (2005–2010)
+
+---
+
+## 🏆 Courses & Certifications
+
+- React & Redux — *Can She Code* (2025)  
+- JavaScript Intermediate — *HackerRank* (2024)  
+- GSAP & Figma — *Can She Code* (2024)  
+- EF SET English Certificate — **Level C2**
+
+---
 
 ## Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
