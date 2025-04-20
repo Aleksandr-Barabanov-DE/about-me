@@ -67,9 +67,14 @@ Immanuel Kant Baltic Federal University, Russia (2005–2010)
 - JavaScript Intermediate — *HackerRank* (2024)  
 - GSAP & Figma — *Can She Code* (2024)  
 - EF SET English Certificate — **Level C2**
-- TELC Deutsch - **Niveau С1**
 
 ---
+
+## 🌍 Languages
+
+- 🇬🇧 English — **C2**  
+- 🇷🇺 Russian — **Native**  
+- 🇩🇪 German — **C1**
 
 ## Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
