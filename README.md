@@ -11,44 +11,29 @@ Currently working at EcoPoint, where I develop reusable components, integrate RE
 
 I’m a proactive team player who contributes to architectural decisions, code reviews, and testing processes using tools like Jest and Cypress. Passionate about clean code, intuitive design, and delivering real business value.
 
-## Skills & Technologies
+## 🛠️ Core Technologies
 
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/> 
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp"/>
-</p>
-
-### API Management
-<p>
-  <img src="https://img.shields.io/badge/-RESTful APIs-02569B?style=for-the-badge&logo=api&logoColor=white" alt="API"/>
-</p>
-
-### Principles
-<p>
-  <img src="https://img.shields.io/badge/-DRY-FFA500?style=for-the-badge&logo=devicon&logoColor=white" alt="DRY"/>
-  <img src="https://img.shields.io/badge/-KISS-FF6347?style=for-the-badge&logo=devicon&logoColor=white" alt="KISS"/>
-  <img src="https://img.shields.io/badge/-YAGNI-4682B4?style=for-the-badge&logo=devicon&logoColor=white" alt="YAGNI"/>
-</p>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![IMask](https://img.shields.io/badge/-IMask-000000?style=for-the-badge&logo=imask&logoColor=white)
+![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=
+::contentReference[oaicite:6]{index=6}
 
 ### Goals  
 - **Short-term Goals**:  
