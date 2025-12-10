@@ -73,7 +73,7 @@ I actively contribute to architectural planning, code reviews, and testing workf
 **BA in Linguistics**  
 Immanuel Kant Baltic Federal University, Russia (2005–2010)
 
-**Frontend Developer (Berufliche Weiterbildung)**  
+**Frontend Developer**  
 **Yandex Practicum**, Germany (2023)  
 - 12-month intensive program focused on **TypeScript**, **React**, architecture, and performance
 
