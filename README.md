@@ -1,28 +1,30 @@
 <img src="https://github.com/Aleksandr-Barabanov-DE/about-me/blob/main/hero-section.jpg?raw=true" alt="Aleksandr Barabanov. About me Page" width="1200"/>
-<h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋
+<h1>Hi there, I'm <a href="https://barabanov.codes/" target="_blank">Aleksandr Barabanov</a> 👋</h1>
  
 ## About Me
 
-With over 11 years of experience in frontend development and a strong focus on React and TypeScript, I bring a proven ability to deliver scalable, high-performance web applications.
+I’m a Frontend Developer with 11+ years of experience building scalable, high-performance web applications using **React**, **Angular**, **TypeScript**, and modern architectural patterns.
 
-Proficient in performance optimization, component-based architecture (FSD), and animation-driven UI/UX using GSAP.
+My core strengths include **performance optimization**, **Feature-Sliced Design (FSD)**, reusable component architecture, and **animation-driven UI/UX** with GSAP and ScrollTrigger.
 
-Currently working at EcoPoint, where I develop reusable components, integrate REST APIs, and enhance user experience through smooth, high-performance interfaces.
+I have experience developing production-ready UI components, integrating complex REST APIs, working with modular frontend architectures, and improving user experience through smooth, optimized interfaces.
 
-I’m a proactive team player who contributes to architectural decisions, code reviews, and testing processes using tools like Jest and Cypress. Passionate about clean code, intuitive design, and delivering real business value.
+I actively contribute to architectural planning, code reviews, and testing workflows using **Jest** and **Cypress**, and I’m passionate about clean code, intuitive interfaces, and creating meaningful business value through thoughtful engineering.
 
 ## 🛠️ Core Technologies
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/-Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-0C5ADB?style=for-the-badge&logo=primeng&logoColor=white)
 ![IMask](https://img.shields.io/badge/-IMask-000000?style=for-the-badge&logo=imask&logoColor=white)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,9 +38,21 @@ I’m a proactive team player who contributes to architectural decisions, code r
 
 ## Experience
 
-### **Frontend Developer**  
+## **Frontend Developer (Angular · TypeScript)**  
+**Vallab Fiscal LLC**, Germany *(Remote)*  
+**May 2025 – Nov 2025**
+- Built a modern admin portal using **Angular 19**, PrimeNG, RxJS, and modular architecture  
+- Designed scalable frontend architecture (services, guards, routing, state-management)  
+- Developed backend services using **Node.js + TypeScript**  
+- Built **BitGrabber**: custom data mappers, ODBC integration, SQL optimization  
+- Improved code quality with **OOP patterns** (Factory, Adapter)  
+- Implemented automated tests with **Jest**  
+- Contributed to a modular **data-ingestion platform** integrating 1C, tax systems, and external APIs  
+
+
+### **Frontend Developer (React)**  
 **EcoPoint LLC**, Russia  
-*Jan 2022 – Present*  
+*Jan 2022 – May 2025*  
 - Developed scalable web applications using **React**, **TypeScript**, **Redux**, and **Feature-Sliced Design (FSD)** architecture  
 - Built **reusable UI components** and implemented full **CRUD logic** with **REST API integration**  
 - Enhanced user experience through **GSAP animations** and smooth interactions  
@@ -58,6 +72,11 @@ I’m a proactive team player who contributes to architectural decisions, code r
 
 **BA in Linguistics**  
 Immanuel Kant Baltic Federal University, Russia (2005–2010)
+
+**Frontend Developer (Berufliche Weiterbildung)**  
+**Yandex Practicum**, Germany (2023)  
+- 12-month intensive program focused on **TypeScript**, **React**, architecture, and performance
+
 
 ---
 
