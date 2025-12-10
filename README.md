@@ -6,7 +6,7 @@
 I’m a Frontend Developer focused on building scalable, high-performance web applications using **React**, **Angular**, **TypeScript**, and modern frontend architecture patterns.
 
 My key strengths include **performance optimization**, reusable UI components, animation-driven interfaces with **GSAP**, and clean, maintainable code.  
-I work with REST APIs, modular architectures, and modern tooling to deliver smooth, intuitive user experiences.
+I work with REST APIs and modern frontend patterns to deliver smooth user experiences.
 
 I enjoy solving complex UI problems, improving performance, and creating high-quality interfaces that provide real value.
 
