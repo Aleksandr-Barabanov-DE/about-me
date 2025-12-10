@@ -42,13 +42,13 @@ Immanuel Kant Baltic Federal University, Russia
 
 **Frontend Developer**  
 **Yandex Practicum**
-- 12-month intensive program focused on **TypeScript**, **React**, architecture, and performance
+- Program focused on **TypeScript**, **React**, architecture, and performance
 
 ## 🔭 Current Focus
 - Building responsive, high-performance UI with React & Angular  
 - Improving animation pipelines with GSAP & ScrollTrigger  
 - Exploring design systems and reusable component architecture  
-- TypeScript tooling, performance debugging and clean-code practices  
+- Enhancing TypeScript skills and building stable, maintainable codebases 
 ---
 
 ## 🏆 Courses & Certifications
