@@ -50,7 +50,7 @@ I actively contribute to architectural planning, code reviews, and testing workf
 - Contributed to a modular **data-ingestion platform** integrating 1C, tax systems, and external APIs  
 
 
-### **Frontend Developer (React)**  
+## **Frontend Developer (React)**  
 **EcoPoint LLC**, Russia  
 *Jan 2022 – May 2025*  
 - Developed scalable web applications using **React**, **TypeScript**, **Redux**, and **Feature-Sliced Design (FSD)** architecture  
@@ -59,7 +59,7 @@ I actively contribute to architectural planning, code reviews, and testing workf
 - **Optimized Webpack configuration**, reducing load time by 30% and bundle size by 25%  
 - Collaborated on **project planning**, code **reviews**, and testing using **Jest** and **Cypress**
 
-### **Web Developer & SEO Specialist**  
+## **Web Developer & SEO Specialist**  
 **Orbis LLC**, Russia  
 *Jul 2013 – Dec 2021*  
 - Created and maintained websites using **Wix**, **Tilda**, and **Nethouse**; integrated **CRMs** and **payment systems**  
