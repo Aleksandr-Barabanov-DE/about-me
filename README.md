@@ -96,7 +96,8 @@ Immanuel Kant Baltic Federal University, Russia (2005–2010)
 - 🇩🇪 German — **C1**
 
 ## Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Barabanov-DE&layout=compact&langs_count=10&hide_border=true)
+
 
 ## 💻 Notable Projects
 
