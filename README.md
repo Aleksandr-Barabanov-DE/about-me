@@ -41,7 +41,7 @@ I enjoy solving complex UI problems, improving performance, and creating high-qu
 Immanuel Kant Baltic Federal University, Russia
 
 **Frontend Developer**  
-**Yandex Practicum**, Germany (2023)  
+**Yandex Practicum**
 - 12-month intensive program focused on **TypeScript**, **React**, architecture, and performance
 
 
