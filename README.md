@@ -3,13 +3,12 @@
  
 ## About Me
 
-I’m a Frontend Developer with 11+ years of experience building scalable, high-performance web applications using **React**, **Angular**, **TypeScript**, and modern architectural patterns.
+I’m a Frontend Developer focused on building scalable, high-performance web applications using **React**, **Angular**, **TypeScript**, and modern frontend architecture patterns.
 
-My core strengths include **performance optimization**, **Feature-Sliced Design (FSD)**, reusable component architecture, and **animation-driven UI/UX** with GSAP and ScrollTrigger.
+My key strengths include **performance optimization**, reusable UI components, animation-driven interfaces with **GSAP**, and clean, maintainable code.  
+I work with REST APIs, modular architectures, and modern tooling to deliver smooth, intuitive user experiences.
 
-I have experience developing production-ready UI components, integrating complex REST APIs, working with modular frontend architectures, and improving user experience through smooth, optimized interfaces.
-
-I actively contribute to architectural planning, code reviews, and testing workflows using **Jest** and **Cypress**, and I’m passionate about clean code, intuitive interfaces, and creating meaningful business value through thoughtful engineering.
+I enjoy solving complex UI problems, improving performance, and creating high-quality interfaces that provide real value.
 
 ## 🛠️ Core Technologies
 
@@ -36,38 +35,6 @@ I actively contribute to architectural planning, code reviews, and testing workf
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 
-## Experience
-
-## **Frontend Developer (Angular · TypeScript)**  
-**Vallab Fiscal LLC**, Germany *(Remote)*  
-**May 2025 – Nov 2025**
-- Built a modern admin portal using **Angular 19**, PrimeNG, RxJS, and modular architecture  
-- Designed scalable frontend architecture (services, guards, routing, state-management)  
-- Developed backend services using **Node.js + TypeScript**  
-- Built **BitGrabber**: custom data mappers, ODBC integration, SQL optimization  
-- Improved code quality with **OOP patterns** (Factory, Adapter)  
-- Implemented automated tests with **Jest**  
-- Contributed to a modular **data-ingestion platform** integrating 1C, tax systems, and external APIs  
-
-
-## **Frontend Developer (React)**  
-**EcoPoint LLC**, Russia  
-*Jan 2022 – May 2025*  
-- Developed scalable web applications using **React**, **TypeScript**, **Redux**, and **Feature-Sliced Design (FSD)** architecture  
-- Built **reusable UI components** and implemented full **CRUD logic** with **REST API integration**  
-- Enhanced user experience through **GSAP animations** and smooth interactions  
-- **Optimized Webpack configuration**, reducing load time by 30% and bundle size by 25%  
-- Collaborated on **project planning**, code **reviews**, and testing using **Jest** and **Cypress**
-
-## **Web Developer & SEO Specialist**  
-**Orbis LLC**, Russia  
-*Jul 2013 – Dec 2021*  
-- Created and maintained websites using **Wix**, **Tilda**, and **Nethouse**; integrated **CRMs** and **payment systems**  
-- Developed personal projects like **Crypto Tracker** and **Fake Store** with **React** and **TypeScript**  
-- Achieved **top-5 rankings** in **Google** and **Yandex**, increasing traffic and conversions via UI/UX improvements  
-- Managed **SEO**, speed optimization, and structure for a **catalog of 8,000+ products**
-
-
 ## 🎓 Education
 
 **BA in Linguistics**  
@@ -82,7 +49,7 @@ Immanuel Kant Baltic Federal University, Russia (2005–2010)
 
 ## 🏆 Courses & Certifications
 
-- React & Redux — *Can She Code* (2025)  
+- React & Redux — *Can She Code* (2024)  
 - JavaScript Intermediate — *HackerRank* (2024)  
 - GSAP & Figma — *Can She Code* (2024)  
 - EF SET English Certificate — **Level C2**
