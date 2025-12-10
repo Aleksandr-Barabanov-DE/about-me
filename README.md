@@ -38,7 +38,7 @@ I enjoy solving complex UI problems, improving performance, and creating high-qu
 ## 🎓 Education
 
 **BA in Linguistics**  
-Immanuel Kant Baltic Federal University, Russia (2005–2010)
+Immanuel Kant Baltic Federal University, Russia
 
 **Frontend Developer**  
 **Yandex Practicum**, Germany (2023)  
