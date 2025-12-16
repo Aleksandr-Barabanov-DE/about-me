@@ -111,9 +111,6 @@ I thrive in **cross-functional agile teams (Backend, QA, Product)** within regul
 
 ## 📫 Let's Connect
 <div>
-  <a href="https://barabanov.codes/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/aleksandr-barabanov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
