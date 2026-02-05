@@ -66,15 +66,20 @@ I thrive in **cross-functional agile teams (Backend, QA, Product)** within regul
 - Created a **library of 15+ reusable UI components**, ensuring consistency across the platform
 - Integrated backend APIs using **Swagger/OpenAPI** and implemented **role-based access system (JWT)**
 
+ ### **Web Developer** | Orbis LLC
+*Jan 2021 – Aug 2023*
+
+- Developed and maintained client websites, ensuring high performance and SEO optimization.
+- Integrated third-party services and CRM systems into existing web infrastructures.
+- Mastered core JavaScript and CSS fundamentals before transitioning into complex framework-based development.
+
 ---
 
-## 💻 Notable Projects
+## 🚀 Key Technical Highlights
 
-### **E-Commerce Web Application (Fake Store)**
-*React • TypeScript • Material UI • REST API*
-- SPA with structured state management and reusable UI components
-- Clean REST API integration and responsive design
-- Practice project focusing on architecture and code quality
+- **Architecture:** Led the transition to **Feature-Sliced Design (FSD)** in a production IoT platform, reducing component coupling and speeding up feature delivery.
+- **Modernization:** Orchestrated a seamless migration from **Angular 7 to 19** for a high-traffic FinTech portal without downtime.
+- **UI/UX:** Engineered a custom library of **15+ reusable enterprise components** using PrimeNG/Material, ensuring design consistency across multiple internal tools.
 
 ---
 
